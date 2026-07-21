@@ -98,20 +98,6 @@ Algorithms:
 
 -----------------------------------------
 
-PHASE 8 : ADVANCED STRINGS
-
-Implement Trie (208)
-Word Search II (212)
-Word Break (139)
-Longest Common Subsequence (1143)
-Edit Distance (72)
-
-Pattern:
-✓ Trie
-✓ Dynamic Programming
-✓ Backtracking
-
------------------------------------------
 
 IMPORTANT PATTERNS TO MASTER
 
@@ -123,7 +109,7 @@ IMPORTANT PATTERNS TO MASTER
 ✓ Stack
 ✓ Sorting
 ✓ KMP
-✓ Trie
+
 
 -----------------------------------------
 
@@ -151,11 +137,8 @@ IMPORTANT PATTERNS TO MASTER
 22. Find Index of First Occurrence in String
 23. Repeated Substring Pattern
 24. KMP Algorithm
-25. Trie
-26. Word Break
-27. Longest Common Subsequence
-28. Edit Distance
+
 
 ==============================
-TOTAL QUESTIONS : 28
+TOTAL QUESTIONS : 24
 ==============================
