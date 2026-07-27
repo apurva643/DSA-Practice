@@ -1,0 +1,132 @@
+==========================================================
+                STACK PATTERN ROADMAP
+==========================================================
+
+Pattern 1 : Basic Stack Operations (LIFO)
+----------------------------------------------------------
+Recognition:
+✔ Balanced brackets
+✔ Undo operation
+✔ Last In First Out (LIFO)
+✔ Remove previous element
+✔ Stack simulation
+
+Easy
+1. Baseball Game
+2. Backspace String Compare
+3. Remove Outermost Parentheses
+4. Make The String Great
+5. Crawler Log Folder
+
+Medium
+6. Remove All Adjacent Duplicates in String II
+7. Asteroid Collision
+
+----------------------------------------------------------
+
+Pattern 2 : Stack + String Parsing
+----------------------------------------------------------
+Recognition:
+✔ Nested strings
+✔ Decode / Encode
+✔ Directory paths
+✔ Parsing nested structures
+
+Easy
+1. Evaluate Reverse Polish Notation
+
+Medium
+2. Decode String ✅
+3. Simplify Path ✅
+4. Ternary Expression Parser
+
+Hard
+5. Basic Calculator II
+6. Basic Calculator III
+
+
+----------------------------------------------------------
+
+Pattern 3 : Monotonic Stack
+----------------------------------------------------------
+Recognition:
+✔ Next Greater Element
+✔ Previous Smaller Element
+✔ Increasing / Decreasing Stack
+✔ Histogram
+✔ Range Contribution Problems
+
+Easy
+1. Next Greater Element I
+
+Medium
+2. Daily Temperatures
+3. Next Greater Element II
+4. Online Stock Span
+5. Remove Duplicate Letters
+6. 132 Pattern
+
+Hard
+7. Largest Rectangle in Histogram
+8. Maximal Rectangle
+9. Trapping Rain Water (Stack Approach)
+10. Sum of Subarray Minimums
+
+
+----------------------------------------------------------
+
+Pattern 4 : Stack Design
+----------------------------------------------------------
+Recognition:
+✔ Design Data Structure
+✔ O(1) operations
+✔ Extra stack for minimum / maximum
+
+Easy
+1. Min Stack
+
+Medium
+2. Maximum Frequency Stack
+
+Hard
+3. Dinner Plate Stacks
+
+
+----------------------------------------------------------
+
+Pattern 5 : Expression Evaluation
+----------------------------------------------------------
+Recognition:
+✔ Mathematical expressions
+✔ Prefix / Infix / Postfix
+✔ Operator precedence
+
+Easy
+1. Evaluate Reverse Polish Notation
+
+Medium
+2. Basic Calculator
+
+Hard
+3. Basic Calculator II
+4. Basic Calculator III
+
+
+----------------------------------------------------------
+
+Pattern 6 : Stack Simulation / Call Stack
+----------------------------------------------------------
+Recognition:
+✔ Push / Pop sequence validation
+✔ Function execution
+✔ Recursion simulation
+✔ Nested function calls
+
+Easy
+1. Validate Stack Sequences
+
+Medium
+2. Exclusive Time of Functions
+
+Hard
+3. Parse Lisp Expression
