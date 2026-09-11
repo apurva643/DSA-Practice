@@ -32,16 +32,15 @@ Recognition:
 ✔ Directory paths
 ✔ Parsing nested structures
 
-Easy
-1. Evaluate Reverse Polish Notation
 
 Medium
+1. Evaluate Reverse Polish Notation
 2. Decode String ✅
 3. Simplify Path ✅
 4. Ternary Expression Parser
+5. Basic Calculator II
 
 Hard
-5. Basic Calculator II
 6. Basic Calculator III
 
 
